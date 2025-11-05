@@ -1,2 +1,3 @@
 # FELLOWSHIP
-Projeto F
+
+Praticando com HTML e CSS puro
